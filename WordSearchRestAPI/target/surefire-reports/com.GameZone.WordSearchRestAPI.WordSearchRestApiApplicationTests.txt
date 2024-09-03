@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.GameZone.WordSearchRestAPI.WordSearchRestApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.292 s -- in com.GameZone.WordSearchRestAPI.WordSearchRestApiApplicationTests
